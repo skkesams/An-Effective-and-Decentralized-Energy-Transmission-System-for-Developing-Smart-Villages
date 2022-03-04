@@ -1,1 +1,4 @@
-# Multi-Layer-Perceptron
+# An-Effective-and-Decentralized-Energy-Transmission-System-for-Developing-Smart-Villages
+
+
+Over recent decades, village communities are facing numerous challenges. Some of those challenges have been addressed through the lenses of technological developments while some are still being addressed. One among them being unreliable Centralized Energy supply. Smart villages are adopting IoT solutions wherein they are using renewable resources like solar, wind, hydro and biomass as sources for clean energy production. However, the energy efficiency due to long-distance communication and the network life of smart grids are two of the major concerns in the context of implementing modern approaches in smart villages. The proposed system in this report helps in overcoming the inefficiency in energy transmission using Particle Swarm Optimization and Genetic algorithm in finding the best sensor node in a cluster of nodes to send the data and selecting the best and efficient route in between the sensor nodes and base station. Through this model, we can search for optimal solutions in less time.
